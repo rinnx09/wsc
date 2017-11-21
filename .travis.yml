@@ -1,2 +1,2 @@
-travis:  java
-sudo:  required
+language: java
+sudo: required
